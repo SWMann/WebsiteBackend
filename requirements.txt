@@ -9,3 +9,4 @@ python-dotenv==1.0.0
 paramiko==3.3.1  # Required by sshtunnel for SSH connections
 sshtunnel
 setuptools
+psycopg2-binary
